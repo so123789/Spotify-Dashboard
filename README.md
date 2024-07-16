@@ -1,4 +1,4 @@
-# Spotify-Dashboard
+# Spotify Music Analysis
 
 # Spotify Dashboard – Tableau
 
@@ -6,7 +6,7 @@
 This project showcases a comprehensive Spotify dashboard built using Tableau. The dashboard visualizes various metrics and insights from Spotify data, providing a detailed analysis of music trends, artist performances, and listener preferences using the built-in charts and customized charts
 
 # Features
-•	Top Tracks and Artists: Visualize the most popular tracks and artists over a selected period.
+•	Top Tracks and Artists: Visualize the most popular tracks and artists over a selected period.<br>
 •	Metrics: Includes the average streaming data for Spotify, along with numerical insights such as the total number of artists, total number of tracks, and the count of Spotify playlists.
 •	Track Attributes: Analysis of various attributes such as danceability, energy, and tempo of tracks.
 •	Artist Track Analysis by Stream: Analyse tracks by artists based on streaming data.
